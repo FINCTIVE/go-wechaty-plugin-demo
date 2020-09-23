@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c29c407d-92b2-46d8-bb90-1111eaf9dcb5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/lib/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1hrGNhsPiWYE0mQEobQaTUk0Fkt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wechaty/go-wechaty" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/scripts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="437" y="164" key="#Go_Modules" timestamp="1600762494079">
+      <screen x="0" y="0" width="1280" height="781" />
+    </state>
+    <state x="437" y="164" key="#Go_Modules/0.0.1280.781@0.0.1280.781" timestamp="1600762494079" />
+    <state x="432" y="80" key="EditFileWatcherDialog" timestamp="1600763115040">
+      <screen x="0" y="0" width="1280" height="781" />
+    </state>
+    <state x="432" y="80" key="EditFileWatcherDialog/0.0.1280.781@0.0.1280.781" timestamp="1600763115040" />
+    <state x="423" y="24" key="FileChooserDialogImpl" timestamp="1600822241418">
+      <screen x="0" y="0" width="1280" height="781" />
+    </state>
+    <state x="423" y="24" key="FileChooserDialogImpl/0.0.1280.781@0.0.1280.781" timestamp="1600822241418" />
+    <state x="278" y="-31" key="SettingsEditor" timestamp="1600763116495">
+      <screen x="0" y="0" width="1280" height="781" />
+    </state>
+    <state x="278" y="-31" key="SettingsEditor/0.0.1280.781@0.0.1280.781" timestamp="1600763116495" />
+    <state x="205" y="-31" width="852" height="652" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600829475882">
+      <screen x="0" y="0" width="1280" height="781" />
+    </state>
+    <state x="205" y="-31" width="852" height="652" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.781@0.0.1280.781" timestamp="1600829475882" />
+    <state x="303" y="101" width="672" height="678" key="search.everywhere.popup" timestamp="1600762558231">
+      <screen x="0" y="0" width="1280" height="781" />
+    </state>
+    <state x="303" y="101" width="672" height="678" key="search.everywhere.popup/0.0.1280.781@0.0.1280.781" timestamp="1600762558231" />
+  </component>
+</project>
