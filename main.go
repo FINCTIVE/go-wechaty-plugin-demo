@@ -1,9 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"time"
+)
 
 func main() {
-	var m map[int]int = make(map[int]int)
-	m[1]++
-	fmt.Println(m[1])
+	a := 0.05
+	fmt.Println(time.Duration(a) * time.Hour)
 }
